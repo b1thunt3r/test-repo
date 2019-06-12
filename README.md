@@ -1,6 +1,6 @@
 # test-repo for Open Source Club meetup
 
-Helo world! This is a simple repossitory which contains some typos. Enjoy!
+Hello world! This is a simple repossitory which contains some typos. Enjoy!
 
 :smile:
 
